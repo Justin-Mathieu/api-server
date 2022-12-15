@@ -6,9 +6,9 @@
 
 ### Links and Resources**  
 
-[Pull Request]()
+[Pull Request](https://github.com/Justin-Mathieu/api-server/pull/1)
 
-[ci/cd]()
+[ci/cd](https://github.com/Justin-Mathieu/api-server/actions)
 
 [Render]()
 
@@ -26,4 +26,6 @@
 
 ## Notes
 
- 
+Currently not working...
+TODO - write tests
+     - add db stuff  
