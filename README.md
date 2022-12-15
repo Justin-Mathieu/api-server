@@ -6,11 +6,11 @@
 
 ### Links and Resources**  
 
-[Pull Request]()
+[Pull Request](https://github.com/Justin-Mathieu/api-server/pull/1)
 
-[ci/cd]()
+[ci/cd](https://github.com/Justin-Mathieu/api-server/actions)
 
-[Render]()
+[Render](https://api-server-kbg1.onrender.com)
 
 ## Setup
 
@@ -26,4 +26,6 @@
 
 ## Notes
 
- 
+Currently not working...
+TODO - write tests
+     - add db stuff  
